@@ -40,7 +40,7 @@ According to the beginning of the project, I am analyzing three datasets that re
 The orange line indicates UW Medicine's activity, and the daily visitors are moving up and down with a broad range.
 Starbucks' operations are shown by the blue line, and daily visits fluctuate within a short range. This behavior is most likely linked to people's everyday coffee consumption.
 
-<img width="906" alt="WX20220222-141421@2x" src="https://user-images.githubusercontent.com/81647911/155230368-f6006f91-b0f5-48ab-9035-7c0e2c4bfefb.png">
+<img width="888" alt="WX20220222-150556@2x" src="https://user-images.githubusercontent.com/81647911/155234716-6782b9a4-eb50-4f8f-acdd-7d49cccb34bb.png">
 
 ## Conclusion
 Finally, during the COVID-19 time, King County inhabitants reduced their daily life trips foot traffic throughout the month of July, 2020. The average visits in the Northeasts, Northwests, and Southwest regions are roughly 26,593 visits. We also note the Top 10 industries firms in King County, as well as the Top 10 companies with the most average visits in the people-based requirements category. We can clearly see the evolution of people's life patterns based on the examination of the aforesaid data.
