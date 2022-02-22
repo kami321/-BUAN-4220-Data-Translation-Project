@@ -1,11 +1,12 @@
 # BUAN 4220 21SQ - Data Translation Project
-######Author: Yinhui(Kami) Yang
+Author: Yinhui(Kami) Yang
 
 #### Introduction
 
 SafeGraph is a company that works with cell phone location data. People have ever pressed “Accept Terms & Conditions” in certain apps, it is
 very likely that people have sent an anonymous ping of their location to a location-data-services who then sells people’s information to
 companies like SafeGraph.
+
 Regarding this project, we will analyze three datasets (Datasets: king_originvisits.Rdata, king_dailyvisits.Rdata, neighborhood_names) that reflect
 data from July 2020 in the King County neighborhood area around Seattle. More specifically, we will look at daily visits to analyze people’s trends
 at different companies. Based on the dataset’s timeframe, it is striking to see there is a correlation between people’s daily visits and impact of the
