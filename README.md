@@ -12,7 +12,7 @@ at different companies. Based on the dataset’s timeframe, it is striking to se
 Covid-19 pandemic.
 
 ## Where are the neighborhood near by Seattle people visits the most?
-<img width="555" alt="WX20220222-141245@2x" src="https://user-images.githubusercontent.com/81647911/155228642-d6fd13e3-5ea0-47b9-b14f-046844f762c2.png">
+<img width="551" alt="WX20220222-141245@2x" src="https://user-images.githubusercontent.com/81647911/155229372-1d5ab2b8-50e0-4329-b798-6de2bdd067b1.png">
 
 The most popular districts, as we can see, are the Northeasts, Northwests, and Southwests. Based on this data, we may conclude that throughout the summer, individuals prefer to visit lively areas in Seattle's Northeast and Northwest. Since the COVID-19, most places were still closed throughout the summer, and there was a lot of protesting action in the Downtown, Central, and Delridge neighborhoods during the COVID-19 period. This can be explained by the fact that traffic in these communities was substantially lower.
 
