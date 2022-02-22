@@ -1,7 +1,7 @@
 # BUAN 4220 21SQ - Data Translation Project
-Author: Yinhui(Kami) Yang
+#### Author: Yinhui(Kami) Yang
 
-#### Introduction
+## Introduction
 
 SafeGraph is a company that works with cell phone location data. People have ever pressed “Accept Terms & Conditions” in certain apps, it is
 very likely that people have sent an anonymous ping of their location to a location-data-services who then sells people’s information to
