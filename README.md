@@ -1,9 +1,6 @@
 # BUAN 4220 21SQ - Data Translation Project
 #### Author: Yinhui(Kami) Yang
 
-Individual projects to the extraction of competitive data and foot traffic insight through creative analysis of daily trends and top-visited locations, lifecycle activities data impact of the COVID-19 pandemic 
-Using R and Tableau to produce a cohesive story report, including multiple visualizations and text for a data company
-
 ## Introduction
 
 SafeGraph is a company that works with cell phone location data. People have ever pressed “Accept Terms & Conditions” in certain apps, it is
