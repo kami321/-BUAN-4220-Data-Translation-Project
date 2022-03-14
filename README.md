@@ -1,4 +1,4 @@
-# BUAN 4220 21SQ - Data Translation Project
+# Data Translation Project
 #### Author: Yinhui(Kami) Yang
 
 ## Introduction
