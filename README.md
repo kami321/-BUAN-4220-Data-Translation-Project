@@ -1,4 +1,4 @@
-# Data Translation Project
+# Descriptive Insights Translation Project 
 #### Author: Yinhui(Kami) Yang
 
 ## Introduction
