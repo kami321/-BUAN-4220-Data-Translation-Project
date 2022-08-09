@@ -44,4 +44,3 @@ Starbucks' operations are shown by the blue line, and daily visits fluctuate wit
 
 ## Conclusion
 Finally, during the COVID-19 time, King County inhabitants reduced their daily life trips foot traffic throughout the month of July, 2020. The average visits in the Northeasts, Northwests, and Southwest regions are roughly 26,593 visits. We also note the Top 10 industries firms in King County, as well as the Top 10 companies with the most average visits in the people-based requirements category. We can clearly see the evolution of people's life patterns based on the examination of the aforesaid data.
-
